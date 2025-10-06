@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "astral_tech:item/stellar_energy_irradiated_ingot_mk1"
+  }
+}

@@ -1,0 +1,107 @@
+[0610月2025 18:08:53.793] [Main-Thread/INFO] [ModernUI/Core]: Backend Library: LWJGL 3.3.1 build 7
+[0610月2025 18:08:53.946] [Main-Thread/INFO] [ModernUI/Core]: Will use OpenGL 4.6 Core Profile
+[0610月2025 18:08:53.989] [Main-Thread/INFO] [ModernUI/Core]: Primary monitor physical size: 344x215 mm, xScale: 1.5, yScale: 1.5
+[0610月2025 18:08:53.999] [Main-Thread/INFO] [ModernUI/Core]: Display metrics: DisplayMetrics{density=1.5, width=1920, height=1200, scaledDensity=1.5, xdpi=189.02325, ydpi=189.02325}
+[0610月2025 18:08:54.055] [Render-Thread/INFO] [Arc3D/]: Identified OpenGL vendor: ATI
+[0610月2025 18:08:54.056] [Render-Thread/INFO] [Arc3D/]: Identified OpenGL driver: AMD
+[0610月2025 18:08:54.056] [Render-Thread/INFO] [Arc3D/]: Using OpenGL 4.6 and GLSL 4.50
+[0610月2025 18:08:54.058] [Render-Thread/INFO] [Arc3D/]: Use KHR_blend_equation_advanced_coherent
+[0610月2025 18:08:54.120] [Render-Thread/INFO] [ModernUI/Core]: OpenGL vendor: ATI Technologies Inc.
+[0610月2025 18:08:54.120] [Render-Thread/INFO] [ModernUI/Core]: OpenGL renderer: AMD Radeon(TM) 610M
+[0610月2025 18:08:54.120] [Render-Thread/INFO] [ModernUI/Core]: OpenGL version: 4.6.0 Core Profile Context 24.30.36.05.250417
+[0610月2025 18:08:54.121] [Render-Thread/INFO] [ModernUI/Core]: OpenGL caps: 
+AnisotropySupport: true
+GpuTracingSupport: false
+ConservativeRasterSupport: false
+TextureBarrierSupport: true
+DepthClipNegativeOneToOne: true
+BlendEquationSupport: ADVANCED_COHERENT
+ClampToBorderSupport: true
+MaxRenderTargetSize: 16384
+MaxPreferredRenderTargetSize: 16384
+MaxVertexAttributes: 32
+MaxVertexBindings: 32
+MaxTextureSize: 16384
+MaxPushConstantsSize: 0
+MaxColorAttachments: 8
+MinUniformBufferOffsetAlignment: 16
+MinStorageBufferOffsetAlignment: 4
+ShaderCaps:
+	TargetAPI: OPENGL_4_5
+	GLSLVersion: GLSL_450
+	SPIRVVersion: null
+	FMASupport: true
+	DualSourceBlendingSupport: true
+	PreferFlatInterpolation: true
+	VertexIDSupport: true
+	InfinitySupport: true
+	NonConstantArrayIndexSupport: true
+	BitManipulationSupport: true
+	NoPerspectiveInterpolationSupport: true
+	ReducedShaderMode: false
+	TextureQueryLod: true
+	UseUniformBinding: true
+	UseVaryingLocation: true
+	UseBlockMemberOffset: true
+	UsePrecisionModifiers: false
+	RequiresLocalOutputColorForFBFetch: false
+	MustObfuscateUniformColor: false
+	MustWriteToFragColor: false
+	ColorSpaceMathNeedsFloat: false
+	AvoidDfDxForGradientsWhenPossible: false
+	SecondaryOutputExtension: null
+	AdvBlendEqInteraction: 2
+	MaxFragmentSamplers: 32
+Vendor: ATI
+Driver: AMD
+MaxFragmentUniformVectors: 2000
+MaxTextureMaxAnisotropy: 16.0
+SupportsProtected: false
+SkipErrorChecks: false
+MaxLabelLength: 256
+DebugSupport: true
+BufferStorageSupport: true
+DrawElementsBaseVertexSupport: true
+BaseInstanceSupport: true
+DSASupport: true
+InvalidateBufferType: 2
+InvalidateFramebufferSupport: true
+VertexAttribBindingSupport: true
+CopyImageSupport: true
+SPIRVSupport: false
+ViewCompatibilityClassSupport: true
+TexStorageSupport: true
+ProgramBinarySupport: true
+ProgramBinaryFormats: [1193046]
+GLSLVersion: 460
+ColorTypeToBackendFormat:
+	UNKNOWN=>GLenum [0x0]
+	BGR_565=>RGB565
+	R_8=>R8
+	RG_88=>RG8
+	RGB_888=>RGB8
+	RGBX_8888=>GLenum [0x0]
+	RGBA_8888=>RGBA8
+	BGRA_8888=>RGBA8
+	RGBA_8888_SRGB=>SRGB8_ALPHA8
+	RGBA_1010102=>RGB10_A2
+	BGRA_1010102=>RGB10_A2
+	R_16=>GLenum [0x0]
+	R_F16=>GLenum [0x0]
+	RG_1616=>RG16
+	RG_F16=>RG16F
+	RGBA_16161616=>RGBA16
+	RGBA_F16=>RGBA16F
+	RGBA_F16_CLAMPED=>RGBA16F
+	RGBA_F32=>GLenum [0x0]
+	ALPHA_8=>R8
+	ALPHA_16=>R16
+	ALPHA_F16=>R16F
+	GRAY_8=>R8
+	GRAY_ALPHA_88=>RG8
+	ABGR_8888=>GLenum [0x0]
+	ARGB_8888=>GLenum [0x0]
+CompressionTypeToBackendFormat: [null, {mBackend=OpenGL, mFormat=ETC2}, {mBackend=OpenGL, mFormat=RGB8_BC1}, {mBackend=OpenGL, mFormat=RGBA8_BC1}]
+
+[0610月2025 18:08:54.122] [Render-Thread/INFO] [ModernUI/Core]: Looping render thread
+[0610月2025 18:08:54.229] [Main-Thread/INFO] [ModernUI/Core]: Looping main thread
